@@ -32,7 +32,7 @@ li{
 }
 #titlename{
     float: left;
-    padding-left: 10px;
+    padding-left: 50px;
 }
 
 a{
@@ -45,7 +45,7 @@ a:hover{
 /* For Body */
 
 #body{
-    
+    margin:auto;
     background-color: white;
     
     
@@ -55,6 +55,7 @@ img{
     border-radius: 50%;  
     height: 350px;
     width: 350px;
+    border: 5px gray solid;
 }
 #welcomeImage{
     margin-top: 10px;

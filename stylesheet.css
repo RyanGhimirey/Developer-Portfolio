@@ -33,7 +33,7 @@ body{
 nav{
     float:right;
     list-style-type: none;
-    padding: 1.75em;
+    padding: 2em;
     font-weight: bolder;
     
       
@@ -46,7 +46,7 @@ nav{
 }
 #titlename{
     float: left;
-    padding-top: 0.5em;
+    padding-top: 0.75em;
     padding-left: 1em;
     color: #1687a7;
     
@@ -74,7 +74,7 @@ a:hover{
     text-align: center;
     margin: 0 auto;
     width: 50%;
-    padding-top:1em;
+    padding-top:1.25em;
     font-size: 125px;
 }
 #announce{
